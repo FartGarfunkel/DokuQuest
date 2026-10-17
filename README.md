@@ -1,6 +1,6 @@
 # DokuQuest
 
-**Current version:** Alpha 0.9.0.50
+**Current version:** Alpha 0.9.0.51
 **Status:** Alpha. DokuQuest is still being made: new things arrive often, some things will change, and you may meet a bug or two. Your worlds carry over from one version to the next.
 
 ![DokuQuest: four players in split screen](screenshots/together.png)
@@ -22,6 +22,7 @@ And the world has more going on than it lets on at first. Some things are best f
 - **Resource packs:** DokuQuest can wear a **Minecraft Java resource pack**: block, item and creature textures, animations, menus and sounds.
 - **Portals you can see through:** a lit portal is a window into the realm on the other side, live, and you walk straight through without a loading screen.
 - **Maps:** paper maps fill in as you explore, mark villages and the places you're sent, and take your own pins.
+- **Distant terrain:** the land goes on far past your render distance, out to 2,048 blocks, drawn simply so it costs little (like the Distant Horizons mod).
 - **Living weather:** storms you can see rolling in, fog after the rain, sandstorms and blizzards, waves on the open sea, lightning, rainbows and the northern lights.
 - **Dedicated server:** run a world for everyone with a players list, a live world map, an isometric view, chat and console, settings and plugins.
 - **Mods and plugins:** add commands and events with the built-in DQ API.
