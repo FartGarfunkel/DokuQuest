@@ -1,6 +1,6 @@
 # DokuQuest
 
-**Current version:** Alpha 0.9.0.67
+**Current version:** Alpha 0.9.0.68
 **Status:** Alpha. DokuQuest is still being made: new things arrive often, some things will change, and you may meet a bug or two. Your worlds carry over from one version to the next.
 
 ![DokuQuest: four players in split screen](screenshots/together.png)
